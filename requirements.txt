@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+pdfminer.six
+pandas
+openpyxl
